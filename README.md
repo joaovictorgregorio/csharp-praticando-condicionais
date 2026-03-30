@@ -9,12 +9,6 @@
 	<img src="https://img.shields.io/badge/.NET_CLI-000000?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET CLI" />
 </p>
 
-## 🧠 Study Notes (Notion)
-
-This project can be accompanied by personal study notes containing theory, diagrams, and step-by-step explanations.
-
-> 🔗 **[Access My Complete Course Notes on Notion](https://www.notion.so/Praticando-C-orienta-o-a-objetos-com-classes-32673de9320380edafc4e0ebb592fb18?source=copy_link)**
-
 ## 📝 About This Repository
 
 This repository contains the practical code developed during the course. Its main goal is to consolidate conditional logic concepts in C#, with emphasis on:
